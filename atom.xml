@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yanggg1997.github.io</id>
     <title>弗兰克的技术生活馆</title>
-    <updated>2020-11-06T12:28:00.927Z</updated>
+    <updated>2020-11-06T15:22:08.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yanggg1997.github.io"/>
     <link rel="self" href="https://yanggg1997.github.io/atom.xml"/>
@@ -11,17 +11,17 @@
     <icon>https://yanggg1997.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 弗兰克的技术生活馆</rights>
     <entry>
-        <title type="html"><![CDATA[This is the first blog used to test the software function]]></title>
-        <id>https://yanggg1997.github.io/post/this-is-the-first-blog-used-to-test-the-software-function/</id>
-        <link href="https://yanggg1997.github.io/post/this-is-the-first-blog-used-to-test-the-software-function/">
+        <title type="html"><![CDATA[今天开始写blog——从开箱致钛PC005国产SSD开始]]></title>
+        <id>https://yanggg1997.github.io/post/201106_001/</id>
+        <link href="https://yanggg1997.github.io/post/201106_001/">
         </link>
-        <updated>2020-11-01T15:08:15.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<!-- more -->
-<p>写博客，写博客</p>
-<p>哈哈</p>
-<h3 id="标题三">标题三</h3>
-<p>正文</p>
+        <updated>2020-11-06T14:35:34.000Z</updated>
+        <content type="html"><![CDATA[<p>盯上致钛的固态硬盘好久了，主要还是因为它是纯国产技术，而且性能强劲，正好我的笔记本电脑存储空间吃紧，一直想再捣鼓捣鼓系统，比如装个黑苹果啥的。昨天晚上痛下决心，在好价活动结束前不到1分钟才下的单，到手413的价格还是不得不称赞香香香。虽然我的要求不高，比什么雷克沙、铠侠要贵个几十块钱，但为了支持国产，支持中国科技的发展，还是冲了！没想到昨晚23:59下的单，今天傍晚就到了，不得不佩服京东物流的速度的。</p>
+<p>今天太晚了就不开箱测试了，放几张美图吧，哈哈！<br>
+<img src="https://yanggg1997.github.io/post-images/1604673664644.jpg" alt="" loading="lazy"><br>
+<img src="https://yanggg1997.github.io/post-images/1604673670618.jpg" alt="" loading="lazy"></p>
+<p>除了这个，今年双十一还买了一个域名yangzhenyu.tech，买了5年期限的，真的够我用好久了，5年后我肯定都结婚了，说不定都抱小孩了。除非读博了，如果读博的话可能才刚刚博士毕业吧。哎，说到这个又要感伤了，自己本心还是想读个博士的，但原因有三：1. 眼光太高，要读就得去名校读，让自己有幸福感，也让自己有动力，有收获；2. 怀疑自己的能力，该去哪里，我申请的筹码是什么，全然不知；3. 最重要的还是这条，想尽早独立，有挣钱能力，不想快三十了还依赖家人，在社会上没有金钱就没有立足的资本。其实如果能解决第3条，第一第二条都是小问题，说到底梦想还是得由money支撑起来的。</p>
+<p>回到域名的事情，自己买了个域名也是想写博客，做记录，在茫茫互联网大海中有自己的一间小屋子，之前也尝试在CSDN上写，但还是有寄人篱下的感觉，页面布局之类的都被安排得明明白白，想要好看可以，得加钱，这不自由。这次买了独立域名，自助搭建网站，终于可以自由写博客了，哈哈。一次买了5年，花费不多，但希望自己能够坚持下去！现在还没开始搭建网站，先在github page上写，等搭建好了，再迁移过去，以后就尽可能都在yangzhenyu.tech上写啦。我给我的博客起名为Frank的技术生活馆，其他平台，比如csdn上，也会考虑继续同步技术博客的，而生活类的还是只在自己的小馆内分享吧。技术是冷冰冰的，而创造、使用技术的人应当是对生活充满热情的，不要总给技术冷冷的形象，让技术有人情味，就能称之为艺术。</p>
 ]]></content>
     </entry>
 </feed>
